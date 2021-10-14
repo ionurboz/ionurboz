@@ -6,6 +6,8 @@ I am keen to create static and interactive web pages using next generation JavaS
 
 I think successful interaction "Starts with user experience and ends with design".
 
+### Links
+
 - [onurboz.com](https://onurboz.com)
 - [boz.works](https://boz.works)
 
