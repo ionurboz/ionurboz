@@ -4,7 +4,7 @@ I'm a front-end and client-side web developer. Since my journey as a freelance d
 
 I am keen to create static and interactive web pages using next generation JavaScript frameworks. I am very sensitive to UI & UX and a flat design fan.
 
-I think successful interaction "Starts with user experience and ends with design".
+I think "Successful interaction starts with user experience and ends with design".
 
 ### Links
 
