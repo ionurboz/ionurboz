@@ -11,4 +11,8 @@ I think "Successful interaction starts with user experience and ends with design
 - [onurboz.com](https://onurboz.com)
 - [boz.works](https://boz.works)
 
+----
+
 > Front-end and Client-side web developer, UX and UI maker, SEO tinker. 🚀🔥
+
+![boz love open source](https://gist.githubusercontent.com/ionurboz/fc5edaf4dc02b974410669fe25b52756/raw/5231e78bc0a45fc88b1b6b7cee0ec334c9abdccb/boz-%25E2%259D%25A4%25EF%25B8%258F-open-source.png)
