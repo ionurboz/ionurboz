@@ -10,6 +10,4 @@ I think "Successful interaction starts with user experience and ends with design
 
 - [onurboz.com](https://onurboz.com)
 
-----
-
 > Front-end and Client-side web developer, UX and UI maker, SEO tinker. 🚀🔥
